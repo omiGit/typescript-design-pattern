@@ -1,1 +1,1 @@
-# typescript-starter
+# Typescript Desing Patterns
